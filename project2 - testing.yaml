@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: 2023-09-09
 Description: Project template
 
 # Project VPC with public subnet, Internet Gateway, EC2, S3, and RDS [Peronal Project Testing]
